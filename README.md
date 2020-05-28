@@ -1,7 +1,7 @@
 # MOI_models
 # 
 We modeled several single-cycle infection outcomes from bulk cell
-culture in which cell were infected with flu virus over a range of
+culture in which cells were infected with flu virus over a range of
 multiplicity of infection (MOI). This work was originally submitted to
 PLOS Pathogens and uploaded to BioRxiv (08/30/19):
 https://doi.org/10.1101/752329
