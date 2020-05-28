@@ -64,3 +64,4 @@ if 0
     save('coinfection_parameter_estimates', 'data_co', 'paramsfit_co', 'results_co', 'params_fixed')
     
 end
+
