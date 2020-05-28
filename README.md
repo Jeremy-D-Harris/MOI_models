@@ -18,5 +18,5 @@ different aspects of infection outcomes:
 "SIE" - code for fitting models to coinfection and superinfection data
 
 
-See "README" file in each subdirectory for more details
+See "README" file in each subdirectory for more details regarding script files.
 
