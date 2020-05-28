@@ -51,3 +51,4 @@ bottom: assuming virions are negative binomial distributed across cells
 Some of the models take more time than others to run, for example, the 
 parameter estimates of epsilon are close to zero.
 
+...
